@@ -1,0 +1,2 @@
+the levels can work like the mod format.
+divisions, and goto, and effects, and patterns, etc.
